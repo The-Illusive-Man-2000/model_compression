@@ -38,4 +38,4 @@ __Папка weights/my_model__  $~~~~~~~~~~~~~~$  _Папка с весами �
 Ссылка на данные, на которых делался замер и на веса модели.
 
 - ViT: https://drive.google.com/drive/folders/1YN1uM3D5oRoX8wQ2GAX3juVuZlh3YxjJ?usp=sharing
-- ReSnet-50: https://drive.google.com/drive/folders/1XT7pq6VVNLiV0F-RS0iPdTYNwE0mS-OF?usp=sharing 
+- Resnet-50: https://drive.google.com/drive/folders/1XT7pq6VVNLiV0F-RS0iPdTYNwE0mS-OF?usp=sharing 
