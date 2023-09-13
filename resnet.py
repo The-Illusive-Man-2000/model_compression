@@ -7,8 +7,8 @@ from sklearn.metrics import accuracy_score
 
 start_time = time.time()
 
-extractor = AutoImageProcessor.from_pretrained("microsoft/resnet-50")
-model = ResNetForImageClassification.from_pretrained("microsoft/resnet-50")
+extractor = AutoImageProcessor.from_pretrained("weights/my_resnet-50")
+model = ResNetForImageClassification.from_pretrained("weights/my_resnet-50")
 
 def model_infer(model, img):
     with torch.no_grad():
