@@ -19,7 +19,7 @@ __Quantization and Pruning:__
 | ViT после прунинга (local unstructured pruning)         | 0.975               | 1.818                   | 87.9607           | 327.302               |
 | ViT после прунинга (global unstructured pruning)        | 0.95                | 0.1819                  | 879               | 329.561               |
 | ViT после прунинга (multiple param. structured pruning) | 0.95625             | 8.4135                  | 19.01             | 327.302               |
-
+| ViT после weight clusterization                         | 0.96875             | 0.1730                  | 924.4877          | 327.302               | 
 
 
 ***
